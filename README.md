@@ -1,5 +1,5 @@
 # better-sketch
 
-An updated version of my etch-a-sketch clone. This clone actually acts like a real etch-a-sketch where multiple passes of a "block" will make that block darker.
+An Etch-a-Sketch clone that runs in the browser.
 
 [Live Demo](https://yujioshiro.github.io/better-sketch/)
